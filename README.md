@@ -3,3 +3,5 @@
 [Graph Algorithms - FreeCodeCamp](https://github.com/MultiWar/GraphAlgorithms-FreeCodeCamp)
 
 [Backtracking - FreeCodeCamp](https://github.com/MultiWar/Backtracking-FreeCodeCamp)
+
+[Rust - Interactive Rust Book](https://github.com/MultiWar/Rust_Book)
